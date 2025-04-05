@@ -1,4 +1,4 @@
-<img src= "https://github.com/user-attachments/assets/8969d1e8-67ee-4918-98bf-ce02b4cb63a3" width="50" height="50" />
+<img src= "https://github.com/user-attachments/assets/8969d1e8-67ee-4918-98bf-ce02b4cb63a3" width="20" height="20" />
 # Python_Games
 
 
