@@ -6,5 +6,6 @@
 - <a href="https://github.com/nickagesa/Hangman">Hangman</a> - Simple clone of the classic hangman game
 
 ## Cyber Security
-### Red Hat
 ### Blue Hat
+### Red Hat
+
