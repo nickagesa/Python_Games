@@ -7,6 +7,7 @@
 
 ## Cyber Security
 ### 🧢 Blue Hat 
+- <a href="https://github.com/nickagesa/Secure_Login_Simuation">Secure_Login_Simuation</a> - This project demonstrates how to build a secure login system using Python, SQLite, and bcrypt for password hashing.
 ### <img src="https://github.com/user-attachments/assets/b0cc4849-f250-438f-a2de-d8b5aa6d1670" width="30" height="20" /> Red Hat 
 - <a href="https://github.com/nickagesa/Keylogger">Keylogger</a> 🖥️⌨️ - Python Keylogger with Encrypted Logging & Email Alerts
 
