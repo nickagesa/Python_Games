@@ -7,5 +7,10 @@
 
 ## Cyber Security
 ### Blue Hat
-### Red Hat
+### Red Hat ![image](https://github.com/user-attachments/assets/99599de5-0d2f-403d-90c1-115a4b0843a2)
+
+- <a href="https://github.com/nickagesa/Keylogger">Keylogger</a> 🖥️⌨️ Python Keylogger with Encrypted Logging & Email Alerts
+
+## Automation
+- <a href="https://github.com/nickagesa/Send_Email">Send_Email</a> 📧 - A Simple Python Script that send emails.
 
