@@ -7,7 +7,7 @@
 
 ## Cyber Security
 ### Blue Hat
-### Red Hat ![image](https://github.com/user-attachments/assets/22831aeb-c957-4822-8809-8275eda64548)
+### Red Hat <img src="https://github.com/user-attachments/assets/22831aeb-c957-4822-8809-8275eda64548" width="20" height="20" />
 
 
 - <a href="https://github.com/nickagesa/Keylogger">Keylogger</a> 🖥️⌨️ Python Keylogger with Encrypted Logging & Email Alerts
