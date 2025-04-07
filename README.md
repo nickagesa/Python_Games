@@ -6,12 +6,11 @@
 - <a href="https://github.com/nickagesa/Hangman">Hangman</a> - Simple clone of the classic hangman game
 
 ## Cyber Security
-### Blue Hat
-### Red Hat <img src="https://github.com/user-attachments/assets/22831aeb-c957-4822-8809-8275eda64548" width="20" height="20" />
-
-
+### Blue Hat 🧢
+### Red Hat <img src="https://github.com/user-attachments/assets/b0cc4849-f250-438f-a2de-d8b5aa6d1670" width="30" height="30" />
 - <a href="https://github.com/nickagesa/Keylogger">Keylogger</a> 🖥️⌨️ Python Keylogger with Encrypted Logging & Email Alerts
 
 ## Automation
 - <a href="https://github.com/nickagesa/Send_Email">Send_Email</a> 📧 - A Simple Python Script that send emails.
+
 
