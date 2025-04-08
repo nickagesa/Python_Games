@@ -8,6 +8,7 @@
 ## Cyber Security
 ### 🧢 Blue Hat 
 - <a href="https://github.com/nickagesa/Firewall_Simulation">Firewall_Simulation</a> - Basic firewall simulation in Python to help beginners understand how firewalls work.
+- <a href="https://github.com/nickagesa/SIEM_Simulation">SIEM_Simulation</a> - A basic simulation of a (SIEM) system in Python that detects brute force login attempts and potential DoS
 - <a href="https://github.com/nickagesa/Password_Hashing">Password_hashing</a> - Understand the importance of secure password storage.
 - <a href="https://github.com/nickagesa/Secure_Login_Simuation">Secure_Login_Simuation</a> - Build a secure login system using Python, SQLite, and bcrypt for password hashing.
 ### <img src="https://github.com/user-attachments/assets/b0cc4849-f250-438f-a2de-d8b5aa6d1670" width="30" height="20" /> Red Hat 
