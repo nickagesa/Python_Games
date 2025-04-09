@@ -5,7 +5,7 @@
 - <a href="https://github.com/nickagesa/Flappy_Bird">Flappy_Bird</a> - A simple clone of the classic Flappy Bird game built using Python and Pygame.
 - <a href="https://github.com/nickagesa/Hangman">Hangman</a> - Simple clone of the classic hangman game
 
-## Cyber Security
+## Cyber-Security
 ### 🧢 Blue Hat 
 - <a href="https://github.com/nickagesa/Firewall_Simulation">Firewall_Simulation</a> - Basic firewall simulation in Python to help beginners understand how firewalls work.
 - <a href="https://github.com/nickagesa/SIEM_Simulation">SIEM_Simulation</a> - Basic SIEM Simulation in Python that detects brute force login attempts and potential DoS
