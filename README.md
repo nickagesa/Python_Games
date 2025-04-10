@@ -17,7 +17,8 @@
 ### <img src="https://github.com/user-attachments/assets/b0cc4849-f250-438f-a2de-d8b5aa6d1670" width="30" height="20" /> Red Hat 
 - <a href="https://github.com/nickagesa/Keylogger">Keylogger</a> 🖥️⌨️ - Smart Python Keylogger with Encrypted Logging & Email Alerts.
 
-## Automation
+## Automation <img src= "https://github.com/user-attachments/assets/d2aa6fc1-5908-42b9-a1e3-36df0fce5278" width="50" height="35" />
 - <a href="https://github.com/nickagesa/Send_Email">Send_Email</a> 📧 - A Simple Python Script that send emails.
+
 
 
