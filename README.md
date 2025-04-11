@@ -8,7 +8,7 @@
 
 ## Cyber-Security 🔓
 ### 🧢 Blue Team 
-- <a href="https://github.com/nickagesa/Symmetric_Encryption">Encryption</a> 🔐 - Symmetric File Encryption & Decryption using Cryptography Library in Python.
+- <a href="https://github.com/nickagesa/Encryption">Encryption</a> 🔐 - Symmetric & Asymmetric Encryption in Python.
 - <a href="https://github.com/nickagesa/Firewall_Simulation">Firewall_Simulation</a> - Basic firewall simulation in Python to help beginners understand how firewalls work.
 - <a href="https://github.com/nickagesa/SIEM_Simulation">SIEM_Simulation</a> - Basic SIEM Simulation in Python that detects brute force login attempts and potential DoS.
 - <a href="https://github.com/nickagesa/Password_Strength_Checker">Password_Strength_Checker</a> - Simple python script to teach beginners how a password strength checker works.
