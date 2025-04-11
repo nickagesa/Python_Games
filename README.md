@@ -4,7 +4,7 @@
 
 - <a href="https://github.com/nickagesa/Cosmic_Duel">Cosmic_Duel</a> 🚀🔥 - A fast-paced 2D space battle game made using Python and Pygame.
 - <a href="https://github.com/nickagesa/Flappy_Bird">Flappy_Bird</a> - A simple clone of the classic Flappy Bird game built using Python and Pygame.
-- <a href="https://github.com/nickagesa/Hangman">Hangman</a> - Simple clone of the classic hangman game
+- <a href="https://github.com/nickagesa/Hangman">Hangman</a> - Simple clone of the classic hangman game.
 
 ## Cyber-Security 🔓
 ### 🧢 Blue Team 
